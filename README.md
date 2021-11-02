@@ -31,3 +31,13 @@ docker run -d --network=reddit --network-alias=comment andrushke/comment:1.0
 docker run -d --network=reddit -p 9292:9292 andrushke/ui:1.0
 ```
 9. Уменьшили размер образа ui и записали в файл Dockerfile.1(Alpine Linux)
+
+## **ДЗ № 13 Docker: сети, docker-compose**
+1. Создание ветки docker-4
+2. Изучение основ работы с сетями
+3. Изучение работы мостов(bridge)
+4. Изучение возможностей анализа работы сетей
+5. Установка Docker-compose
+6. Копипаста docker-compose.yml
+7. Параметризация скрипта, добавлены переменные версии монги, портов src/dst, версий контейнеров и дописан COMPOSE_PROJECT_NAME
+8. Написан docker-compose.override.yml(спасибо docs.docker.com и habr.com)

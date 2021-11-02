@@ -12,3 +12,4 @@ main.tf.old
 jdauphant.nginx
 vault.key
 get-pip.py
+.env
