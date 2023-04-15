@@ -1,7 +1,7 @@
 # andrushke88_microservices
 andrushke88 microservices repository
 
-## **ДЗ № 12 Технология контейнеризации. Введение в Docker
+## **ДЗ № 12 Технология контейнеризации.Введение в Docker
 1. Создана ветка docker-2
 2. Установка docker
 3. Запуск первого контейнера(hello world)
